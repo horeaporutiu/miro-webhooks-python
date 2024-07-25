@@ -1,8 +1,12 @@
 # miro-webhooks-python
 
-## Webhook Demo Youtube
+## App Setup Video (7 Minutes, JavaScript, but concepts are the similar to Python)
+This video shows how to configure webhooks with JavaScript and Express.js. It should be
+to the Python implementation.
 
-![Webhooks-JavaScript](Getting-Started-With-Webhooks-JavaScript.png)
+Click on the thumbnail to [watch this video on YouTube](https://www.youtube.com/watch?v=sdwrsrriQNs).
+
+[![Video](https://img.youtube.com/vi/sdwrsrriQNs/maxresdefault.jpg)](https://www.youtube.com/watch?v=sdwrsrriQNs)
 
 ## Prerequisites
 To complete this guide, you must:

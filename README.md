@@ -38,9 +38,7 @@ To complete this guide, you must:
 
 If all went well, you should see a 200. Then, you can create a sticky on your board, and you should see an event in your terminal. It should looks similar to the one below. (Some IDs were nulled for privacy).
 
-```json
-{'challenge': ''}
-127.0.0.1 - - [25/Jul/2024 11:30:13] "POST / HTTP/1.1" 200 -
+```
 {'eventType': 'board_subscription', 'event': {'boardId': '', 'item': {'id': '', 'type': 'sticky_note', 'createdAt': '2024-07-25T09:30:20Z', 'createdBy': {'id': '', 'type': 'user'}, 'data': {'content': '', 'shape': 'square'}, 'geometry': {'width': 107.46000000000001, 'height': 123.12}, 'modifiedAt': '2024-07-25T09:30:20Z', 'modifiedBy': {'id': '', 'type': 'user'}, 'position': {'x': -12923.80732155303, 'y': -13565.86310249007, 'origin': 'center', 'relativeTo': 'canvas_center'}, 'style': {'fillColor': 'light_yellow', 'textAlign': 'CENTER', 'textAlignVertical': 'middle'}}, 'type': 'create'}, 'eventTime': '2024-07-25T09:30:20Z', 'appId': , 'users': []}
 ```
 
